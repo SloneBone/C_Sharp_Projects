@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_Report\Daily_Report\bin\Debug\Daily_Report.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_Report\Daily_Report\obj\Debug\Daily_Report.pdb
