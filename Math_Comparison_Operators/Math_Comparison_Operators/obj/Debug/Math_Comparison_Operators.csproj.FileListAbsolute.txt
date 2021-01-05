@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Math_Comparison_Operators\Math_Comparison_Operators\bin\Debug\Math_Comparison_Operators.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Math_Comparison_Operators\Math_Comparison_Operators\bin\Debug\Math_Comparison_Operators.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Math_Comparison_Operators\Math_Comparison_Operators\bin\Debug\Math_Comparison_Operators.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Math_Comparison_Operators\Math_Comparison_Operators\obj\Debug\Math_Comparison_Operators.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Math_Comparison_Operators\Math_Comparison_Operators\obj\Debug\Math_Comparison_Operators.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Math_Comparison_Operators\Math_Comparison_Operators\obj\Debug\Math_Comparison_Operators.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Math_Comparison_Operators\Math_Comparison_Operators\obj\Debug\Math_Comparison_Operators.pdb
