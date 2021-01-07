@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Shipping_Cost_Console_App\Shipping_Cost_Console_App\bin\Debug\Shipping_Cost_Console_App.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Shipping_Cost_Console_App\Shipping_Cost_Console_App\bin\Debug\Shipping_Cost_Console_App.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Shipping_Cost_Console_App\Shipping_Cost_Console_App\bin\Debug\Shipping_Cost_Console_App.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Shipping_Cost_Console_App\Shipping_Cost_Console_App\obj\Debug\Shipping_Cost_Console_App.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Shipping_Cost_Console_App\Shipping_Cost_Console_App\obj\Debug\Shipping_Cost_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Shipping_Cost_Console_App\Shipping_Cost_Console_App\obj\Debug\Shipping_Cost_Console_App.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Shipping_Cost_Console_App\Shipping_Cost_Console_App\obj\Debug\Shipping_Cost_Console_App.pdb
