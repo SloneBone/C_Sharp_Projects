@@ -41,10 +41,11 @@ namespace Shipping_Cost_Console_App
                 System.Environment.Exit(0);
             }
 
-            
 
-            
-            double ship_Cost = Convert.ToDouble((ship_Height * ship_Width * ship_Length) * ship_Weight) / 100;
+
+            //implement volume for W*L*H to make cleaner 
+            int ship_Volume = (ship_Height * ship_Width * ship_Length);
+            decimal ship_Cost = Convert.ToDecimal(ship_Volume * ship_Weight) / 100;
             Console.WriteLine("Your estimated shipping cost for this package: {0:C2}", ship_Cost);
             Console.WriteLine("Thank You");
             
