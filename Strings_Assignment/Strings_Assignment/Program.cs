@@ -19,7 +19,7 @@ namespace Strings_Assignment
 
             //3 Creates a Stringbuilder and builds a paragraph of text, one sentence at a time.
 
-            StringBuilder sb = new StringBuilder("Exerpt from JFK Inauguration Address 1961: ", 20);
+            StringBuilder sb = new StringBuilder("Excerpt from JFK Inauguration Address 1961: ", 20);
             sb.Append("\nIn the long history of the world, only a few generations have been granted the role of defending freedom in its hour of maximum danger. ");
             sb.Append("I do not shrink from this responsibility -- I welcome it. ");
             sb.Append("I do not believe that any of us would exchange places with any other people or any other generation. ");
