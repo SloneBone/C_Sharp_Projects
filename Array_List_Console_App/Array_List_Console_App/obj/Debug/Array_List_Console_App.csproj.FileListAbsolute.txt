@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Array_List_Console_App\Array_List_Console_App\bin\Debug\Array_List_Console_App.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Array_List_Console_App\Array_List_Console_App\bin\Debug\Array_List_Console_App.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Array_List_Console_App\Array_List_Console_App\bin\Debug\Array_List_Console_App.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Array_List_Console_App\Array_List_Console_App\obj\Debug\Array_List_Console_App.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Array_List_Console_App\Array_List_Console_App\obj\Debug\Array_List_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Array_List_Console_App\Array_List_Console_App\obj\Debug\Array_List_Console_App.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Array_List_Console_App\Array_List_Console_App\obj\Debug\Array_List_Console_App.pdb
