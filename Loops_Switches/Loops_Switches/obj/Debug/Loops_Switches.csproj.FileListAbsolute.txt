@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Loops_Switches\Loops_Switches\bin\Debug\Loops_Switches.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Loops_Switches\Loops_Switches\bin\Debug\Loops_Switches.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Loops_Switches\Loops_Switches\bin\Debug\Loops_Switches.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Loops_Switches\Loops_Switches\obj\Debug\Loops_Switches.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Loops_Switches\Loops_Switches\obj\Debug\Loops_Switches.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Loops_Switches\Loops_Switches\obj\Debug\Loops_Switches.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Loops_Switches\Loops_Switches\obj\Debug\Loops_Switches.csprojAssemblyReference.cache
