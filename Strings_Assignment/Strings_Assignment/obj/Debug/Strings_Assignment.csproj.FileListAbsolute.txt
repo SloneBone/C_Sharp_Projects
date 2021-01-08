@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Strings_Assignment\Strings_Assignment\bin\Debug\Strings_Assignment.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Strings_Assignment\Strings_Assignment\bin\Debug\Strings_Assignment.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Strings_Assignment\Strings_Assignment\bin\Debug\Strings_Assignment.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Strings_Assignment\Strings_Assignment\obj\Debug\Strings_Assignment.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Strings_Assignment\Strings_Assignment\obj\Debug\Strings_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Strings_Assignment\Strings_Assignment\obj\Debug\Strings_Assignment.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Strings_Assignment\Strings_Assignment\obj\Debug\Strings_Assignment.pdb
