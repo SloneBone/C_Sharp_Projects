@@ -8,27 +8,27 @@ namespace Classes_Objects_Methods_Assignment
 {
     class Math
     {
-        public void AddOneHundred(int input)
+        public int AddOneHundred(int input)
         {
             int result = input + 100;
+            return result;
 
-            Console.WriteLine("Input value  of " + input + " Plus 100 equals " + result);
-            Console.WriteLine(input + " + " + 100 + " = " + result);
+            
 
         }
-        public void MultiplyByTen(int input)
+        public int MultiplyByTen(int input)
         {
-            int result = input * 10;
+            int result1 = input * 10;
+            return result1;
 
-            Console.WriteLine("Input value of " + input + " Multiplied by 10 equals " + result);
-            Console.WriteLine(input + " * " + 10 + " = " + result);
+            
         }
-        public void DivideByFour(int input)
+        public int DivideByFour(int input)
         {
-            int result = input / 4;
+            int result2 = input / 4;
+            return result2;
 
-            Console.WriteLine("Input value of " + input + " Divided by 4 equals " + result);
-            Console.WriteLine(input + " / " + 4 + " = " + result);
+            
         }
 
         
