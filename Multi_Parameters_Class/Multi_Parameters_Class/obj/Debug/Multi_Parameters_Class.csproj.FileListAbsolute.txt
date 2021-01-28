@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Multi_Parameters_Class\Multi_Parameters_Class\obj\Debug\Multi_Parameters_Class.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Multi_Parameters_Class\Multi_Parameters_Class\obj\Debug\Multi_Parameters_Class.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Multi_Parameters_Class\Multi_Parameters_Class\bin\Debug\Multi_Parameters_Class.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Multi_Parameters_Class\Multi_Parameters_Class\bin\Debug\Multi_Parameters_Class.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Multi_Parameters_Class\Multi_Parameters_Class\bin\Debug\Multi_Parameters_Class.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Multi_Parameters_Class\Multi_Parameters_Class\obj\Debug\Multi_Parameters_Class.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Multi_Parameters_Class\Multi_Parameters_Class\obj\Debug\Multi_Parameters_Class.pdb
