@@ -1,0 +1,7 @@
+C:\Users\dslon\source\repos\More_Class_Methods\More_Class_Methods\bin\Debug\More_Class_Methods.exe.config
+C:\Users\dslon\source\repos\More_Class_Methods\More_Class_Methods\bin\Debug\More_Class_Methods.exe
+C:\Users\dslon\source\repos\More_Class_Methods\More_Class_Methods\bin\Debug\More_Class_Methods.pdb
+C:\Users\dslon\source\repos\More_Class_Methods\More_Class_Methods\obj\Debug\More_Class_Methods.csprojAssemblyReference.cache
+C:\Users\dslon\source\repos\More_Class_Methods\More_Class_Methods\obj\Debug\More_Class_Methods.csproj.CoreCompileInputs.cache
+C:\Users\dslon\source\repos\More_Class_Methods\More_Class_Methods\obj\Debug\More_Class_Methods.exe
+C:\Users\dslon\source\repos\More_Class_Methods\More_Class_Methods\obj\Debug\More_Class_Methods.pdb
