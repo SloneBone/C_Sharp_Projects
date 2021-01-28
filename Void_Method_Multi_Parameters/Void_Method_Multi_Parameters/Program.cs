@@ -18,7 +18,7 @@ namespace Void_Method_Multi_Parameters
             //2. In the Main() method of the console app, instantiate the class.
             Math_Two_Params math_Two_Params = new Math_Two_Params();
             //3. Call the method in the class, passing in two numbers.
-
+            math_Two_Params.TwoParams(44, 77);
             //4. Call the method in the class, specifying the parameters by name.
 
 
