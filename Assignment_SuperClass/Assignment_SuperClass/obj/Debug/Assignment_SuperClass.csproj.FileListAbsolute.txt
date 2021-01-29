@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_SuperClass\Assignment_SuperClass\bin\Debug\Assignment_SuperClass.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_SuperClass\Assignment_SuperClass\bin\Debug\Assignment_SuperClass.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_SuperClass\Assignment_SuperClass\bin\Debug\Assignment_SuperClass.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_SuperClass\Assignment_SuperClass\obj\Debug\Assignment_SuperClass.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_SuperClass\Assignment_SuperClass\obj\Debug\Assignment_SuperClass.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_SuperClass\Assignment_SuperClass\obj\Debug\Assignment_SuperClass.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_SuperClass\Assignment_SuperClass\obj\Debug\Assignment_SuperClass.pdb
