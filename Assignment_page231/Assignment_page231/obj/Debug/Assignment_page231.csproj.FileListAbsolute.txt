@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_page231\Assignment_page231\bin\Debug\Assignment_page231.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_page231\Assignment_page231\bin\Debug\Assignment_page231.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_page231\Assignment_page231\bin\Debug\Assignment_page231.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_page231\Assignment_page231\obj\Debug\Assignment_page231.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_page231\Assignment_page231\obj\Debug\Assignment_page231.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_page231\Assignment_page231\obj\Debug\Assignment_page231.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_page231\Assignment_page231\obj\Debug\Assignment_page231.pdb
