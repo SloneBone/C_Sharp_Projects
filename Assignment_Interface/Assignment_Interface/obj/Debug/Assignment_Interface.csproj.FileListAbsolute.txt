@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Interface\Assignment_Interface\obj\Debug\Assignment_Interface.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Interface\Assignment_Interface\obj\Debug\Assignment_Interface.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Interface\Assignment_Interface\bin\Debug\Assignment_Interface.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Interface\Assignment_Interface\bin\Debug\Assignment_Interface.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Interface\Assignment_Interface\bin\Debug\Assignment_Interface.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Interface\Assignment_Interface\obj\Debug\Assignment_Interface.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Interface\Assignment_Interface\obj\Debug\Assignment_Interface.pdb
