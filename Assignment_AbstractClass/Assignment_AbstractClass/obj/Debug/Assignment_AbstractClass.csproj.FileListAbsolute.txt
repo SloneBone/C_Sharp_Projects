@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_AbstractClass\Assignment_AbstractClass\bin\Debug\Assignment_AbstractClass.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_AbstractClass\Assignment_AbstractClass\bin\Debug\Assignment_AbstractClass.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_AbstractClass\Assignment_AbstractClass\bin\Debug\Assignment_AbstractClass.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_AbstractClass\Assignment_AbstractClass\obj\Debug\Assignment_AbstractClass.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_AbstractClass\Assignment_AbstractClass\obj\Debug\Assignment_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_AbstractClass\Assignment_AbstractClass\obj\Debug\Assignment_AbstractClass.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_AbstractClass\Assignment_AbstractClass\obj\Debug\Assignment_AbstractClass.pdb
