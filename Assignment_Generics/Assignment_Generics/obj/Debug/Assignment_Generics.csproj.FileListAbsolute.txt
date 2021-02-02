@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Generics\Assignment_Generics\obj\Debug\Assignment_Generics.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Generics\Assignment_Generics\obj\Debug\Assignment_Generics.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Generics\Assignment_Generics\bin\Debug\Assignment_Generics.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Generics\Assignment_Generics\bin\Debug\Assignment_Generics.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Generics\Assignment_Generics\bin\Debug\Assignment_Generics.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Generics\Assignment_Generics\obj\Debug\Assignment_Generics.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Generics\Assignment_Generics\obj\Debug\Assignment_Generics.pdb
