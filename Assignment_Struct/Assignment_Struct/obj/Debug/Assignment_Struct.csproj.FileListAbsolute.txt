@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Struct\Assignment_Struct\obj\Debug\Assignment_Struct.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Struct\Assignment_Struct\obj\Debug\Assignment_Struct.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Struct\Assignment_Struct\bin\Debug\Assignment_Struct.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Struct\Assignment_Struct\bin\Debug\Assignment_Struct.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Struct\Assignment_Struct\bin\Debug\Assignment_Struct.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Struct\Assignment_Struct\obj\Debug\Assignment_Struct.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Assignment_Struct\Assignment_Struct\obj\Debug\Assignment_Struct.pdb
