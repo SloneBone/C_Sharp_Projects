@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\File_IO_Logs\File_IO_Logs\bin\Debug\File_IO_Logs.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\File_IO_Logs\File_IO_Logs\bin\Debug\File_IO_Logs.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\File_IO_Logs\File_IO_Logs\bin\Debug\File_IO_Logs.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\File_IO_Logs\File_IO_Logs\obj\Debug\File_IO_Logs.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\File_IO_Logs\File_IO_Logs\obj\Debug\File_IO_Logs.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\File_IO_Logs\File_IO_Logs\obj\Debug\File_IO_Logs.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\File_IO_Logs\File_IO_Logs\obj\Debug\File_IO_Logs.pdb
