@@ -1,0 +1,7 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Exception_Handling_2\Exception_Handling_2\bin\Debug\Exception_Handling_2.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Exception_Handling_2\Exception_Handling_2\bin\Debug\Exception_Handling_2.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Exception_Handling_2\Exception_Handling_2\bin\Debug\Exception_Handling_2.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Exception_Handling_2\Exception_Handling_2\obj\Debug\Exception_Handling_2.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Exception_Handling_2\Exception_Handling_2\obj\Debug\Exception_Handling_2.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Exception_Handling_2\Exception_Handling_2\obj\Debug\Exception_Handling_2.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Exception_Handling_2\Exception_Handling_2\obj\Debug\Exception_Handling_2.pdb
