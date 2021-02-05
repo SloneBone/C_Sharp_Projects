@@ -52,7 +52,10 @@ namespace Exception_Handling_2
                 Console.WriteLine("The try/catch block was executed!");
                 Console.ReadLine();
             }
-
+            //Note From microsoft documentation https://docs.microsoft.com/en-us/dotnet/api/system.datetime.subtract?view=net-5.0
+            //To subtract a particular time interval from the current instance, call the method that adds that time interval to the current date,
+            //    and supply a negative value as the method argument. For example, to subtract two months from the current date,
+            //    call the AddMonths(Int32) method with a value of - 2.
 
 
             //Console.WriteLine("Please enter your age: ");
