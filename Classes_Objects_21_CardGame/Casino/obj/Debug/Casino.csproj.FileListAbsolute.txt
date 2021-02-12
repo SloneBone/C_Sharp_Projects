@@ -1,0 +1,6 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Casino\bin\Debug\Casino.dll
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Casino\bin\Debug\Casino.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Casino\obj\Debug\Casino.dll
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Casino\obj\Debug\Casino.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
