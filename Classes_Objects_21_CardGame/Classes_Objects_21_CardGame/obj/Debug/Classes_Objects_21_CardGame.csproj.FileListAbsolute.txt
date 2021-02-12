@@ -1,0 +1,10 @@
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\bin\Debug\Classes_Objects_21_CardGame.exe.config
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\bin\Debug\Classes_Objects_21_CardGame.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\bin\Debug\Classes_Objects_21_CardGame.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\obj\Debug\Classes_Objects_21_CardGame.csprojAssemblyReference.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\obj\Debug\Classes_Objects_21_CardGame.csproj.CoreCompileInputs.cache
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\obj\Debug\Classes_Objects_21_CardGame.exe
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\obj\Debug\Classes_Objects_21_CardGame.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\bin\Debug\Casino.dll
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\bin\Debug\Casino.pdb
+C:\Users\dslon\OneDrive\Documents\GitHub\C_Sharp_Projects\Classes_Objects_21_CardGame\Classes_Objects_21_CardGame\obj\Debug\Classes_Objects_21_CardGame.csproj.CopyComplete
