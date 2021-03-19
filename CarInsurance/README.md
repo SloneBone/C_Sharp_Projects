@@ -7,3 +7,4 @@ There is also an admin page that allows staff to view all of the quotes that hav
 
 <a href="https://github.com/SloneBone/C_Sharp_Projects/tree/main/CarInsurance/CarInsurance/Controllers">Controllers</a>
 
+<a href="https://github.com/SloneBone/C_Sharp_Projects/blob/main/CarInsurance/CarInsurance/Models/Insuree.cs">Insuree Model</a>
